@@ -1,0 +1,14 @@
+.m{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+body{
+    background-color:rgb(47, 224, 224);
+
+}
+.a{
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+}
+.b{
+    background-color: lightcyan;
+}
